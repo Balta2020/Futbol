@@ -1,0 +1,17 @@
+
+
+#EXTM3U
+#EXTINF:-1,Sportv
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8?
+#EXTINF:-1,Sports1
+https://cdn3.wowza.com/1/UmRJTkFqcDlQVlNn/ZW5ZWDdN/hls/h6bntjhn/2728/chunklist.m3u8?
+#EXTINF:-1,Sports2
+https://28awq7cp3eu98hew.ezcdn483.net:8443/hls/65w8o5ox.m3u8?s=8IxnXkbozWVVbp6gygBPNg&e=1609801749
+ #EXTINF:-1,Sports3
+http://cdn.sportcast.life/webplayer.php?t=ifr&c=1513923&lang=en&eid=1016474&lid=1513923&ci=215&si=3
+ #EXTINF:-1,Sports4
+https://dailyb0.s3.amazonaws.com/3/3.m3u8
+ #EXTINF:-1,Sports5
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8?
+#EXTINF:-1,TNT SPORTS
+https://akamai2-br.cdn.booyah.live/hls/1000026/37012636.m3u8?
